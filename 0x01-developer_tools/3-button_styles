@@ -18,3 +18,4 @@ color: #78CDD2;
 text-decoration: none;
 box-sizing: border-box;
 color: #fff !important;
+text-align: center !important;
